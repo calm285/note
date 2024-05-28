@@ -31,4 +31,7 @@ import는 직접 작성하지 않고 **단축키**인 `ctrl+shift+o`를 누릅�
 |두자리정수|`10`부터`90`개|  
 난수 생성의 원리가 궁금하면 [위키백과](https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:%EB%8C%80%EB%AC%B8)에서 확인할 수 있습니다.  
 
-![카지노](https://img.freepik.com/free-photo/casino-roulette-wheel-close-up-ai-generative_123827-24159.jpg)
+![카지노](https://img.freepik.com/free-photo/casino-roulette-wheel-close-up-ai-generative_123827-24159.jpg)  
+
+오늘도 연봉이 10원 올랐습니다  
+![좋아 역시 최고야!](./카카오.gif)
