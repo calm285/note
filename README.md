@@ -34,4 +34,4 @@ import는 직접 작성하지 않고 **단축키**인 `ctrl+shift+o`를 누릅�
 ![카지노](https://img.freepik.com/free-photo/casino-roulette-wheel-close-up-ai-generative_123827-24159.jpg)  
 
 오늘도 연봉이 10원 올랐습니다  
-![좋아 역시 최고야!](./카카오.gif)
+![좋아 역시 최고야!](./카카오gif.gif)
